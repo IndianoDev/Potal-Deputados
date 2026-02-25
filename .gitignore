@@ -33,3 +33,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+yarn-error.*
+.env
